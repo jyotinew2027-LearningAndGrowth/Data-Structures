@@ -1,4 +1,4 @@
-package InterviewPreparation.Array;
+package InterviewPreparation.Recursion;
 
 public class SumOfDigits {
     public static void main(String[] args) {

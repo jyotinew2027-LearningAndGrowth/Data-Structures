@@ -1,4 +1,4 @@
-package InterviewPreparation.Array;
+package InterviewPreparation.Recursion;
 
 public class PowerUsingRecursion {
     public static void main(String[] args) {

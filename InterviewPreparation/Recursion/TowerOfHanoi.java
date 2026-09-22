@@ -1,4 +1,4 @@
-package InterviewPreparation.Array;
+package InterviewPreparation.Recursion;
 
 public class TowerOfHanoi {
     static int moves = 0;

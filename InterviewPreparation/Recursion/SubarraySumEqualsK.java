@@ -1,4 +1,4 @@
-package InterviewPreparation.Array;
+package InterviewPreparation.Recursion;
 
 import java.util.HashMap;
 

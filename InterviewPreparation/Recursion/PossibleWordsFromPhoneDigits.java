@@ -1,8 +1,4 @@
-package InterviewPreparation.Array;
-
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
+package InterviewPreparation.Recursion;
 
 public class PossibleWordsFromPhoneDigits {
     public static void main(String[] args) {
